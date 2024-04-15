@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "cid": "101",
+      "name": "nikita sarode",
+      "cname": "python full day",
+      "fee": "90000",
+      "id": 1
+    },
+    {
+      "cid": "101",
+      "name": "shardha jagtap",
+      "cname": "python full day",
+      "fee": "90000",
+      "id": 2
+    }
+  ]
+}
